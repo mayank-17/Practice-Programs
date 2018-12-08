@@ -1,0 +1,5 @@
+hi this is test file, sorry a text file.
+i am using dictionaries.
+python is a programming .
+python is nice .
+hello hi welcome to python class.

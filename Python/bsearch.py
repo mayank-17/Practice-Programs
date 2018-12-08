@@ -1,0 +1,2 @@
+txt="AABAAACAADAABAABA"
+pat="ABA"
